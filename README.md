@@ -181,7 +181,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+>  I need Support and Guidance to become a Developer.
 
 If you like this project...
 
