@@ -31,7 +31,6 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [HELLO_MICROVERSE] <a name="about-project"></a>
 
@@ -53,12 +52,6 @@
   </ul>
 </details>
 
-
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
 
 <!-- Features -->
 
@@ -174,7 +167,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> In this Project I learned How to submit code the right way. 
 
 If you like this project...
 
@@ -184,9 +177,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse and their code reviewers to make this readme happen 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
