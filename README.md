@@ -94,14 +94,6 @@ In order to run this project you need:
   - NODE 
   - ESlint set up
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 - install node and eslint
  
@@ -139,19 +131,12 @@ To run the project, execute the following command:
 ```sh
   serve -s .
 ```
--
-
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
 
 👤 **Author1**
 
