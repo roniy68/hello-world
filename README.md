@@ -1,27 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -67,7 +44,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -76,14 +53,7 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details> -->
 
-<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -96,9 +66,7 @@ After you're finished please remove all the comments and instructions!
 
 > THIS IS A SIMPLE HELLO WORLD APP FOR NOW
 
-<!-- - **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]** -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +76,7 @@ After you're finished please remove all the comments and instructions!
 
 > NOT AVAILABLE RIGHT NOW
 
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,17 +143,7 @@ To run the project, execute the following command:
 
 
 
-<!-- ### Deployment
 
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,7 +151,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author1**
 
@@ -247,21 +205,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
