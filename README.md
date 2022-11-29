@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 \[HELLO\_MICROVERSE\] ](#-hello_microverse-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -46,8 +46,6 @@ After you're finished please remove all the comments and instructions!
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -58,11 +56,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [HELLO_MICROVERSE] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This Project is a Welcome Project for Microverse
+>       <br><b> Module One day 2 Project [solo]</b>
 
-**[your_project__name]** is a...
+**[HELLO_MICROVERSE]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,33 +72,33 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://w3school.com/">HTML</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> THIS IS A SIMPLE HELLO WORLD APP FOR NOW
 
-- **[key_feature_1]**
+<!-- - **[key_feature_1]**
 - **[key_feature_2]**
-- **[key_feature_3]**
+- **[key_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,9 +106,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> NOT AVAILABLE RIGHT NOW
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,13 +116,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> A new Developer can use this as a template to create other html project with right setup for javascript 
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+  - NODE 
+  - ESlint set up
 
 <!--
 Example command:
@@ -134,58 +135,49 @@ Example command:
  -->
 
 ### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
+- install node and eslint
+ 
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  npm install eslint
+  npx eslint --init
 ```
---->
+<br><br>
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+Clone this repository to your desired folder:
+
+
+ commands:
 
 ```sh
-  cd my-project
-  gem install
+  git clone https://github.com/roniy68/hello-world.git
+  cd hello-world
+  npm install -y
 ```
---->
+<br><br>
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+
+-install serve with : npm install -g serve
 
 ```sh
-  rails server
+  serve -s .
 ```
---->
+-
 
-### Run tests
 
-To run tests, run the following command:
 
-<!--
-Example command:
+<!-- ### Deployment
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
@@ -205,15 +197,11 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@roniy68](https://github.com/roniy68)
+- Twitter: [@ahroniy](https://twitter.com/ahroniy)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,11 +209,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+>  1 - 3 features I will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[javascript]**
+- [ ] **[frontend]**
+- [ ] **[backend]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
