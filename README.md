@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -32,11 +10,10 @@ After you're finished please remove all the comments and instructions!
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[HELLO\_MICROVERSE\] ](#-hello_microverse-)
+- [📖 HELLO\_MICROVERSE ](#-hello_microverse-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -56,18 +33,18 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO_MICROVERSE] <a name="about-project"></a>
+# 📖 HELLO_MICROVERSE <a name="about-project"></a>
 
 > This Project is a Welcome Project for Microverse
 >       <br><b> Module One day 2 Project [solo]</b>
 
-**[HELLO_MICROVERSE]** is a...
+**HELLO_MICROVERSE** is a html and css with eslint set up template.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>HTML and CSS
 
 <details>
   <summary>Client</summary>
@@ -75,30 +52,11 @@ After you're finished please remove all the comments and instructions!
     <li><a href="https://w3school.com/">HTML</a></li>
   </ul>
 </details>
-
-<!-- <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details> -->
-
-<!-- <details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
-
-<!-- Features -->
+<br>
 
 ### Key Features <a name="key-features"></a>
 
 > THIS IS A SIMPLE HELLO WORLD APP FOR NOW
-
-<!-- - **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +74,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A new Developer can use this as a template to create other html project with right setup for javascript 
+> A new Developer can use this as a template to create other html project with right setup for css with eslint 
 
 To get a local copy up and running, follow these steps.
 
@@ -126,14 +84,6 @@ In order to run this project you need:
   - NODE 
   - ESlint set up
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 - install node and eslint
  
@@ -142,7 +92,7 @@ Example command:
   npm install eslint
   npx eslint --init
 ```
-<br><br>
+<br>
 
 
 ### Install
@@ -211,9 +161,9 @@ Example:
 
 >  1 - 3 features I will add to the project.
 
-- [ ] **[javascript]**
-- [ ] **[frontend]**
-- [ ] **[backend]**
+- [ ] **javascript**
+- [ ] **frontend**
+- [ ] **backend**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,10 +191,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
@@ -253,13 +199,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How you clone the repo?**
 
-  - [Answer_1]
+  - git clone **\<repo name\>**
 
-- **[Question_2]**
+- **How you install node?**
 
-  - [Answer_2]
+  - https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,7 +214,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
