@@ -18,6 +18,10 @@
   "homepage": "https://github.com/roniy68/hello-world#readme",
   "devDependencies": {
     "eslint": "^8.28.0",
-    "eslint-config-google": "^0.14.0"
+    "eslint-config-google": "^0.14.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
   }
 }
